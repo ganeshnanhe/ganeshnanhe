@@ -13,7 +13,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There+%F0%9F%91%8B;I'm+Ganesh+Nanhe!++%E0%B2%A0+%E2%80%BF%E2%86%BC++;A+Frontend+Developer+%E2%9A%9B" />
 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gknanhe&label=Profile%20views&color=0f56b3&?style=for-the-badge" alt="gknanhe" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshnanhe&label=Profile%20views&color=0f56b3&?style=for-the-badge" alt="gknanhe" /> </p>
 
 
  ![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif) 
